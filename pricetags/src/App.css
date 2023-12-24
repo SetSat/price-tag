@@ -1,0 +1,7 @@
+/* Add this CSS to your App.css file */
+.card-deck {
+    display: flex;
+    justify-content: space-between; /* or another value like flex-start or flex-end */
+    flex-wrap: wrap; /* This allows the cards to wrap to the next line if there's not enough space */
+  }
+  
